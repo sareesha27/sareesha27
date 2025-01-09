@@ -5,7 +5,7 @@
 - 💻 I’m passionate about software development and enjoy working on web and mobile applications.
 - 🎓 I have a background in computer science and love to solve challenging problems.
 - 💬 Ask me about anything related to Python, JavaScript, or web development.
-- 📫 How to reach me: [sareesha27@example.com](mailto:sareesha27@example.com)
+- 📫 How to reach me: [sareesha27@gmail.com](mailto:sareesha27@gmail.com)
 
 ## Skills
 - **Languages:** Python, JavaScript, Java, C++
